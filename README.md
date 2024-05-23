@@ -62,6 +62,8 @@ Font Awesome: Icon toolkit for scalable vector icons
 bash
 Copy code
 git clone https://github.com/Dipesh54/CARA-E-commerce-website.git
+
+
 Navigate to the project directory:
 
 bash
